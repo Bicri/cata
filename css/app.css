@@ -62,7 +62,7 @@ textarea{
 
 header{
     width: 100%;
-    height: 100vh;
+    height: 140vh;
     display: flex;
     justify-content: center;
 }
@@ -93,7 +93,7 @@ footer p{
 .hero_about{
     background-image: url(../images/main/aboutme.png);
     background-repeat: no-repeat;
-    background-size: cover; /*extender toda la imagen al control*/
+    background-size: 100% 140vh;
     background-position: bottom bottom;
 }
 
